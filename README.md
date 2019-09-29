@@ -1,6 +1,8 @@
 # Schmidt_CSCE_236
 
-Functions:
+This a a simple self driving car developed for an Embedded Systems class at the University of Nebraska-Lincoln. It maintains a constant distance from the wall as well as navigating obstacles in the way. The car consists of a chasis, ultrasonic rangefinder, servo, arduino uno, arduino uno sensor shield, h-bridge, 2 DC motors, and 2 wheels. It was programmed entirely without the use of the arduino libraries and only relies on using timer counters for functionality.
+
+Basic Functions built using timer counters:
 
 	wheelForward - sets both wheels forward at once
 	
